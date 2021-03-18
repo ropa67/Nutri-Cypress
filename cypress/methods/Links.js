@@ -71,4 +71,9 @@ export default class Links{
         weightPlaceholder.type('80')
     }
 
+    test(){
+        const test = "test"
+        return this
+    }
+
 }
