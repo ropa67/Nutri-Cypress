@@ -1,0 +1,24 @@
+{
+
+   
+    "baseUrl": "null",
+    
+    "env":{
+        "email": "null",
+        "password": "null",
+        "login": "null",
+        "yourPlanner": "null",
+    
+        "next": "null",
+        "vegetarian": "null",
+        "male": "null",
+        "agePlaceholder": "null",
+        "siSwitch": "null",
+        "heightPlaceholder": "null",
+        "weightPlaceholder": "null"
+        
+    }
+
+
+
+}
